@@ -1,0 +1,55 @@
+.m
+{
+
+	position: absolute;
+	top:10px;
+	left:625px;  
+	background-image: url(img.png);
+	width:600px;
+	height:350px;
+	background-size: cover;
+}
+.b
+{
+	box-shadow: 0px 0px 7px 8px#1C1C1C;
+	background-color:#2E2E2E; 
+	background-size: cover;
+	height:80px; 
+	width:260px;
+	position: absolute;
+	top:125px;
+	left:800px;
+}
+.f
+{
+
+	position: absolute;
+	top:400px;
+	left:20px;  
+	background-image: url(block.jpg);
+	width:800px;
+	height:500px;
+	background-size: cover;
+}
+.a
+{
+
+	position: absolute;
+	top:400px;
+	left:850px;  
+	background-image: url(uno.jpg);
+	width:800px;
+	height:500px;
+	background-size: cover;
+}
+.c
+{
+
+	position: absolute;
+	top:950px;
+	left:20px;  
+	background-image: url(dos.jpg);
+	width:800px;
+	height:500px;
+	background-size: cover;
+}
